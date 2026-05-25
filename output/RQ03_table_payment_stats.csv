@@ -1,0 +1,6 @@
+Payment_Method,mean,median,std,count
+Bank Transfer,313.66,174.24,430.58,15045
+Debit Card,311.61,171.73,433.18,24986
+PayPal,310.78,178.66,416.66,19930
+Credit Card,306.6,172.85,417.7,34989
+Crypto,293.61,163.43,400.58,5050

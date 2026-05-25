@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+LinearRegression,223.4,388.8,0.137
+PolynomialReg(deg2),223.39,388.79,0.137
+RandomForest,223.38,388.77,0.138
